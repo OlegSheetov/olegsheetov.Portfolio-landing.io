@@ -289,17 +289,27 @@ footer {
 }
 
 @media screen and (max-width:500px) {
+  section {
+
+    
+  }
   body {
-    overflow-x: none;
+    overflow-x:  hidden;
+    width: 200px;
   }
   #Meeting {
     padding: 100px 50px;
+    left: 0px;
+    margin: 80px 0px;
   }
+ #MeetingImg{
+  left: 0px;
 
+ }
   #Norway,
   #SimpleScenarist {
     margin: 50px 0px;
-    width: 800px;
+    width: 300px;
     height: 200px;
     background-position: 0px;
   }

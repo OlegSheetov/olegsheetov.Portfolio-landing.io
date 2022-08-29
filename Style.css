@@ -313,6 +313,9 @@ footer {
     display: none;
 
   }
+    #Meeting>p{
+      line-height: 30px;
+    }
 
   #Norway,
   #SimpleScenarist {
